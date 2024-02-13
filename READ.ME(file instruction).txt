@@ -1,0 +1,10 @@
+django file details:
+
+The link is the drive folder where the .rar file for the project lies in.
+
+super_admin details:
+Username:Abbas
+password:abbas
+
+installed extensions:
+installed pillow
